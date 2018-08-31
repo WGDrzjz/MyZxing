@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MyZxing</string>
+    <string name="qrcode_sao">二维码扫描</string>
+    <string name="scan_allcode_hint">将二维码对入取景框，即可自动扫描</string>
+    <string name="two_sao">再次扫描</string>
+    <string name="scan_barcode_title">条形码扫描</string>
+    <string name="scan_qrcode_title">二维码扫描</string>
+    <string name="scan_barcode_hint">将条形码对入取景框，即可自动扫描</string>
+    <string name="scan_qrcode_hint">将二维码对入取景框，即可自动扫描</string>
+    <string name="scan_allcode_title">二维码或条形码扫描</string>
+    <string name="result">结果：</string>
+    <string name="inconformity_demand">不符合要求</string>
+    <string name="camera">相机</string>
+</resources>
